@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone 15",
+        "price": 79999,
+        "image": "assets/images/iphone.png",
+        "description": "Latest Apple iPhone with advanced features"
+    },
+    {
+        "id": 2,
+        "title": "Samsung Galaxy S23",
+        "price": 74999,
+        "image": "assets/images/Sumsung.png",
+        "description": "Powerful Android smartphone from Samsung"
+    },
+    {
+        "id": 3,
+        "title": "MacBook Air M2",
+        "price": 119999,
+        "image": "assets/images/MacAir.png",
+        "description": "Lightweight laptop with Apple M2 chip and long battery life"
+    },
+    {
+        "id": 4,
+        "title": "Dell XPS 13",
+        "price": 109999,
+        "image": "assets/images/Dell.png",
+        "description": "Premium ultrabook with InfinityEdge display"
+    },
+    {
+        "id": 5,
+        "title": "Sony WH-1000XM5",
+        "price": 29999,
+        "image": "assets/images/Sony.png",
+        "description": "Industry-leading noise cancelling wireless headphones"
+    },
+    {
+        "id": 6,
+        "title": "Apple Watch Series 9",
+        "price": 41999,
+        "image": "assets/images/iphone.png",
+        "description": "Advanced health tracking smartwatch from Apple"
+    },
+    {
+        "id": 7,
+        "title": "iPad Pro 11-inch",
+        "price": 81999,
+        "image": "assets/images/MacAir.png",
+        "description": "Powerful tablet with M-series performance and Liquid Retina display"
+    },
+    {
+        "id": 8,
+        "title": "Bose SoundLink Flex",
+        "price": 14999,
+        "image": "assets/images/Bose.png",
+        "description": "Portable Bluetooth speaker with deep bass and clear sound"
+    },
+    {
+        "id": 9,
+        "title": "Canon EOS 1500D DSLR",
+        "price": 38999,
+        "image": "assets/images/Canon.png",
+        "description": "DSLR camera with 24.1 MP sensor for high-quality photography"
+    },
+    {
+        "id": 10,
+        "title": "Logitech MX Master 3S",
+        "price": 9999,
+        "image": "assets/images/Logitech.png",
+        "description": "Advanced wireless mouse designed for productivity"
+    }
+]
